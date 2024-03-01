@@ -1,0 +1,237 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 136.3rem;
+}.desktop-1-PcB {
+  width: 100%;
+  height: 102.9rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #3c7288;
+  border-radius: 10rem;
+}
+.desktop-1-PcB .frame-1-vVd {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 50.8rem;
+  top: 31.6rem;
+  overflow: hidden;
+}
+.desktop-1-PcB .rectangle-1-DDq {
+  width: 112.9rem;
+  height: 89.6rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 9.8rem;
+  background-color: rgba(60, 113, 136, 0.5299999714);
+  border-radius: 10rem;
+}
+.desktop-1-PcB .rectangle-10-SVu {
+  width: 112.9rem;
+  height: 89.6rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 9.8rem;
+  background-color: rgba(60, 113, 136, 0.5299999714);
+  border-radius: 10rem;
+}
+.desktop-1-PcB .i-accept-the-terms-of-use-privacy-policy-vR5 {
+  width: 49.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 53.2rem;
+  top: 63.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PcB .rectangle-3-mAo {
+  width: 69.5rem;
+  height: 5rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 52.1rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10rem;
+}
+.desktop-1-PcB .rectangle-11-gHm {
+  width: 54rem;
+  height: 5rem;
+  position: absolute;
+  left: 48.3rem;
+  top: 72.4rem;
+  background-color: rgba(147, 132, 55, 0.5);
+  border-radius: 10rem;
+}
+.desktop-1-PcB .sign-up-otB {
+  width: 9.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 66.1rem;
+  top: 73.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PcB .already-have-an-account-login-here-7P5 {
+  width: 43.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 53.4rem;
+  top: 82.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PcB .rectangle-8-AcF {
+  width: 69.5rem;
+  height: 5rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 44.2rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10rem;
+}
+.desktop-1-PcB .rectangle-7-U79 {
+  width: 36.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 26.8rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10rem;
+}
+.desktop-1-PcB .rectangle-6-AVm {
+  width: 69.5rem;
+  height: 5rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 35.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.desktop-1-PcB .email--5sd {
+  width: 11.1rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 38.1rem;
+  top: 36.1rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PcB .password--AeB {
+  width: 19.7rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 38.1rem;
+  top: 45.1rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PcB .sign-up-sHh {
+  width: 23.1rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 59.9rem;
+  top: 15.9rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  font-family: Jacques Francois Shadow, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PcB .rectangle-2-x4F {
+  width: 36.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 79.6rem;
+  top: 26.8rem;
+  background-color: rgba(16, 15, 15, 0.6200000048);
+  border-radius: 10rem;
+}
+.desktop-1-PcB .first-name--5Pm {
+  width: 21.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 38.1rem;
+  top: 27.2rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PcB .frame-2-mGb {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 52rem;
+  top: 53.9rem;
+  overflow: hidden;
+}
+.desktop-1-PcB .last-name--UB1 {
+  width: 21.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 27.2rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PcB .confirm-password--ydZ {
+  width: 33.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 38.1rem;
+  top: 52.8rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-PcB .rectangle-9-siw {
+  width: 2.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 48.3rem;
+  top: 63.9rem;
+  background-color: #d9d9d9;
+}

@@ -1,0 +1,177 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-5-2HM {
+  box-sizing: border-box;
+  padding: 4.1rem 3.5rem 3rem 4.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/desktop-5-bg.png');
+  border-radius: 10rem;
+}
+.desktop-5-2HM .auto-group-67fm-Jkf {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 43.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-67fm-Jkf .auto-group-rpab-eJj {
+  margin-right: 20.8rem;
+  box-sizing: border-box;
+  padding: 8rem 0rem 3.8rem 0rem;
+  width: 57.5rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(171, 15, 24, 0.5);
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-67fm-Jkf .auto-group-rpab-eJj .love-is-like-a-wild-rose-briar-friendship-is-like-the-holly-tree-the-olly-is-dark-when-the-rose-briar-blooms-but-which-will-bloom-more-constantly-wYj {
+  margin: 0rem 1.6rem 13.1rem 0rem;
+  max-width: 55.9rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-67fm-Jkf .auto-group-rpab-eJj .by-emily-bronte-xij {
+  margin-right: 4.7rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-67fm-Jkf .auto-group-3xwh-erT {
+  box-sizing: border-box;
+  padding: 8.9rem 1.9rem 3.9rem 4.1rem;
+  width: 57.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(171, 15, 24, 0.5);
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-67fm-Jkf .auto-group-3xwh-erT .if-my-heart-could-speak-it-would-say-to-you-i-will-not-let-you-go-i-will-hold-you-in-my-arms-forever-Ywq {
+  margin: 0rem 20.6rem 4.8rem 0rem;
+  max-width: 30.9rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-67fm-Jkf .auto-group-3xwh-erT .by-alexandra-vasiliu-ZM9 {
+  margin-left: 24.7rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-2HM .love-poems-f9H {
+  margin-right: 1.5rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-m4dd-BdR {
+  margin-left: 8.3rem;
+  width: calc(100% - 8.3rem);
+  height: 43.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-m4dd-BdR .auto-group-ynvk-tXq {
+  margin: 10.6rem 23rem 4.5rem 0rem;
+  height: calc(100% - 15.1rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-m4dd-BdR .auto-group-ynvk-tXq .you-brought-me-sunshine-when-i-only-show-rain-you-brought-me-laughter-when-i-only-felt-pain-bh9 {
+  margin: 0rem 15.7rem 9.8rem 0rem;
+  max-width: 31.3rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-m4dd-BdR .auto-group-ynvk-tXq .by-donna-donathan-UF9 {
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-m4dd-BdR .auto-group-ukmm-xRD {
+  box-sizing: border-box;
+  padding: 10.6rem 5.9rem 4.5rem 4.1rem;
+  width: 57.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(183, 16, 16, 0.5);
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-m4dd-BdR .auto-group-ukmm-xRD .your-eyes-tell-me-that-youll-love-me-everyday-no-matter-what-may-come-youll-be-there-to-stay-5Ew {
+  margin: 0rem 12.9rem 9.8rem 0rem;
+  max-width: 34.6rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-2HM .auto-group-m4dd-BdR .auto-group-ukmm-xRD .by-blakelee-LwZ {
+  margin-left: 32.1rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

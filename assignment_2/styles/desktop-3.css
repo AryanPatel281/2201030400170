@@ -1,0 +1,342 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 132.7rem;
+}.desktop-3-v2s {
+  box-sizing: border-box;
+  padding: 0.6rem 4.9rem 20.2rem 10.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #698389;
+  border-radius: 10rem;
+}
+.desktop-3-v2s .auto-group-g15h-CWB {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-8dsf-8Pq {
+  margin: 0rem 6.2rem 0.4rem 0rem;
+  width: 34.8rem;
+  height: 35.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-8dsf-8Pq .vector-1-Exf {
+  width: 0.6716rem;
+  height: 2.8544rem;
+  position: absolute;
+  left: 30.6301rem;
+  top: 23.3577rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-8dsf-8Pq .vector-2-ArK {
+  width: 0.5037rem;
+  height: 3.3696rem;
+  position: absolute;
+  left: 30.2943rem;
+  top: 24.0293rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-8dsf-8Pq .rectangle-15-WfH {
+  width: 34.8rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 0;
+  top: 6.6rem;
+  background-color: #e9af79;
+  border-radius: 5rem 0 5rem 0;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-8dsf-8Pq .find-a-new-favorite-funny-poems-SJ3 {
+  width: 23.9rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 24rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-family: JejuHallasan, 'Source Sans Pro';
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-8dsf-8Pq .funny-poems-Y6B {
+  width: 17.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 16.5rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.21;
+  text-decoration-line: underline;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-8dsf-8Pq .image-1-1-e9D {
+  width: 18rem;
+  height: 13.3rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-3jyu-MZR {
+  margin: 0rem 7.1rem 0.4rem 0rem;
+  width: 34.8rem;
+  height: 37.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-3jyu-MZR .rectangle-16-Sas {
+  width: 34.8rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 0;
+  top: 9.2rem;
+  background-color: #be7b7b;
+  border-radius: 5rem 0 5rem 0;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-3jyu-MZR .find-a-new-favorite-love-poems-aSB {
+  width: 30.2rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 26.4rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-family: JejuHallasan, 'Source Sans Pro';
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-3jyu-MZR .love-poems-gEK {
+  width: 16.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 9.7rem;
+  top: 18.5rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.21;
+  text-decoration-line: underline;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-3jyu-MZR .image-2-1-nYF {
+  width: 22.7rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-e2uu-7aX {
+  width: 34.8rem;
+  height: 36.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-e2uu-7aX .rectangle-21-Fwd {
+  width: 34.8rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 0;
+  top: 8.3rem;
+  background-color: #88ae9c;
+  border-radius: 5rem 0 5rem 0;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-e2uu-7aX .find-a-new-favorite-sad-poems-bVh {
+  width: 29.1rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 25rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-family: JejuHallasan, 'Source Sans Pro';
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-e2uu-7aX .sad-poems-umH {
+  width: 14.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 10rem;
+  top: 17.8rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.21;
+  text-decoration-line: underline;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-v2s .auto-group-g15h-CWB .auto-group-e2uu-7aX .rectangle-17-bu1 {
+  width: 17.4rem;
+  height: 15.9rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 {
+  margin-right: 0.1rem;
+  width: 117.6rem;
+  height: 40.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .rectangle-14-3FD {
+  opacity: 0.5;
+  width: 77.1rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 23.2rem;
+  top: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .rectangle-19-NHV {
+  width: 34.8rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 41rem;
+  top: 11.6rem;
+  background-color: #97a15a;
+  border-radius: 5rem 0 5rem 0;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .fear-poems-6UP {
+  width: 16.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 50.1rem;
+  top: 21.8rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.21;
+  text-decoration-line: underline;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .rectangle-22-otb {
+  width: 34.8rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 0;
+  top: 11.6rem;
+  background-color: #6c6170;
+  border-radius: 5rem 0 5rem 0;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .find-a-new-favorite-funny-poems-kJ3 {
+  width: 32.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 28.3rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-family: JejuHallasan, 'Source Sans Pro';
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .find-a-new-favorite-fear-poems-dsd {
+  width: 23.9rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 28.3rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-family: JejuHallasan, 'Source Sans Pro';
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .rectangle-20-HSP {
+  width: 34.8rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 82.8rem;
+  top: 11.6rem;
+  background-color: #2a8faf;
+  border-radius: 5rem 0 5rem 0;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .find-a-new-favorite-regret-poems-PEX {
+  width: 23.9rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 28.6rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-family: JejuHallasan, 'Source Sans Pro';
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .regret-poems-5d9 {
+  width: 18.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 91.6rem;
+  top: 21.8rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.21;
+  text-decoration-line: underline;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .anger-poems-Ns9 {
+  width: 18.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 22.6rem;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.21;
+  text-decoration-line: underline;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .image-5-1-sZ1 {
+  width: 20.3rem;
+  height: 18.5rem;
+  position: absolute;
+  left: 47.7rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .image-6-1-CLP {
+  width: 18.3rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 90.7rem;
+  top: 1.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-3-v2s .auto-group-7q9m-Wm5 .image-7-1-v1V {
+  width: 17.9rem;
+  height: 17rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 1.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
